@@ -9,12 +9,12 @@
             <div class="container">
                 <div class="page-title-content text-center">
                     <div class="page-title-heading ">
-                        <h3 class="title"><a href="#">ABOUT US</a></h3>
+                        <h3 class="title"><a>ABOUT US</a></h3>
                     </div>
                     <div class="breadcrumbs">
                         <ul>
-                            <li class="home"><a href="#">Home</a></li>
-                            <li><a href="#">About Us</a></li>
+                            <li class="home"><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About Us</a></li>
                         </ul>
                     </div>
                 </div>

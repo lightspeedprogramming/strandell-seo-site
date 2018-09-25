@@ -18,9 +18,9 @@
                             <div class="widget widget-quick-link style4">
                                 <h4 class="widget-title">Our Services</h4>
                                 <ul>
-                                    <li><a href="#">Website Development</a></li>
-                                    <li><a href="#">Application Development</a></li>
-                                    <li><a href="#">Seo Services</a></li>
+                                    <li><a href="web-dev.php">Website Development</a></li>
+                                    <li><a href="web-design.php">Website Designing</a></li>
+                                    <li><a href="seo.php">Seo Services</a></li>
                                 </ul>
                             </div> <!-- /.widget-quick-link -->
                         </div> <!-- /.col-md-2 -->
